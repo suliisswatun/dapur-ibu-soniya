@@ -1,0 +1,2 @@
+$('.riview-section').slick({
+    
